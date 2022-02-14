@@ -1,0 +1,16 @@
+{
+  "name": "findyourhat",
+  "version": "1.0.0",
+  "description": "Javascript assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node main.js"
+  },
+  "author": "Desmond Lim",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
